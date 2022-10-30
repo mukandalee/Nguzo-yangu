@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:padding="12dp"
+    android:layout_height="match_parent"
+    tools:context=".NimerudiKwako">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="15dp"
+                android:textAlignment="center"
+                android:textStyle="bold|italic"
+                android:text="Nimerudi Kwako"
+                android:textSize="25sp"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="15dp"
+                android:padding="8dp"
+                android:textStyle="bold|italic"
+                android:text="Sop:Baba yangu nimerudi kwaako__Ninakuja kwa unyenyekevu\n\nSop:Ingawaje ninaona haya__nitazame unihurumie\n\nSop:Nitokako hakuna amani__Nimekosa cha kutumaini (mimi)\n\nSop:Nimekosa mbele ya mbingu na mbele yako wewe (hata) [Sifai kuitwa mwana wako (tena) nichukue kama mmoja wawatumishi wako (baba)x2"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="15dp"
+                android:textStyle="normal"
+                android:text="1.Nilishika ya dunia nikakosa kumtii baba yangu sasa ninajuta mimi [sina chakutumaini heri niondoke nirudi kwa baba yangu x2]"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="8dp"
+                android:textStyle="normal"
+                android:text="2.Watumishi wake baba niwangapi wanakula hata kunywa nami ninaangaika tu, (nitarudi kwake baba nikatubu ili nipate neema kwake x2)"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="8dp"
+                android:textStyle="normal"
+                android:text="3.Dhambi zangu zimevunja urafiki kati yangu naye baba sina wakunifariji (nitarudi kwake baba nijinyenyekeze nipate neema kwake x2)"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="8dp"
+                android:textStyle="normal"
+                android:text="4.Ninakula kingurue ninakunywa na kulala kinguruwe sioni wakunijali (matajiri wanitesa marafiki nao sioni hata mmoja x2)"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="8dp"
+                android:textStyle="normal"
+                android:text="5.Sistahili kusimama mbele yako sifai kuitwa mwana sifai heshima hii (nakusihi heri kwake nikaishi kama mmoja wawatumishi x2)"
+                />
+        </LinearLayout>
+    </ScrollView>
+
+
+</LinearLayout>

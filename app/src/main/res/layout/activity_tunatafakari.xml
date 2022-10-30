@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:padding="8dp"
+    android:layout_height="match_parent"
+    tools:context=".Tunatafakari">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:layout_marginTop="15dp"
+        android:textAlignment="center"
+        android:textStyle="bold|italic"
+        android:text="Tunatafakari"
+        android:textSize="25sp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:layout_marginTop="15dp"
+        android:textAlignment="center"
+        android:textStyle="bold|italic"
+        android:text="Tunatafakari makao ya Mungu mwenyezi yanavyopendeza yamepambwa vema          kwa shaba dhahabu na lulu yanatuvutia (Ee Yesu twakusihi sana tushike mkono twatamani kuingia kwenye mji wa dhahabu x2)"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:layout_marginTop="15dp"
+        android:textStyle="normal"
+        android:text="1.Ukitaka kuingia mbinguni lazima upendo kwa Mungu na kwa jirani hilo lazima ufahamu x2"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:layout_marginTop="8dp"
+        android:textStyle="normal"
+        android:text="2.Choyo anasa ubaguzi mbinguni hakuna kupita kwetu kabila ni moja Yesu akiwa mchungaji x2"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:layout_marginTop="8dp"
+        android:textStyle="normal"
+        android:text="3.Wenye dhiki na wagonjwa nao Lazaro tuwaleendipo lango la mbinguni litafunguka mbele zetu x2"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:layout_marginTop="8dp"
+        android:textStyle="normal"
+        android:text="4.Ee Yesu mwema twakuomba usituwache gizani pale utakapoingia katika ufalme wako x2"
+        />
+    </LinearLayout>
+    </ScrollView>
+
+
+</LinearLayout>

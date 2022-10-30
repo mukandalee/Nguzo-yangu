@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:padding="12dp"
+    android:layout_height="match_parent"
+    tools:context=".NinakazaMwendo">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:textStyle="bold|italic"
+        android:layout_marginTop="15dp"
+        android:text="Ninakaza Mwendo"
+        android:textSize="25sp"
+        android:textColor="@color/black"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:textStyle="bold"
+        android:layout_marginTop="15dp"
+        android:text="    Sio kwamba nimekwisha fika au nimekwisha kamilika la! La! Bali ninakaza mwendo ili nipate kulishika lile ambalo limeshikwa naye kristu x2"
+        android:textColor="@color/black"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="normal"
+        android:layout_marginTop="15dp"
+        android:text="1.Ninaendelea mbele mimi katika utumishi wangu nijalie bwana Mungu wangu niyashinde haya ya dunia."
+        android:textColor="@color/black"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="normal"
+        android:layout_marginTop="15dp"
+        android:text="2.Nishike mkono bwana wangu shetani asinisumbue niongoze vema bwana wangu niyashike majukumu yangu "
+        android:textColor="@color/black"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="normal"
+        android:layout_marginTop="15dp"
+        android:text="3.Nitashinda mimi nitashinda nitashinda kwa nguvu zangu nitarajie ushujaa endapo wewe utaamua "
+        android:textColor="@color/black"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="normal"
+        android:layout_marginTop="15dp"
+        android:text="4.Nitavikwa mimi nitavikwa nitavikwa taji la haki sio kwa nguvu zangu bali kwa nguvu za Mungu "
+        android:textColor="@color/black"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="normal"
+        android:layout_marginTop="15dp"
+        android:text="5.Haleluya nitaimba mimi nitasau maisha safari haya ni matarajio yangu mwisho wa hii safari yangu
+ "
+        android:textColor="@color/black"/>
+
+</LinearLayout>

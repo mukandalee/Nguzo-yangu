@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:padding="12dp"
+    android:layout_height="match_parent"
+    tools:context=".NaendaKwetu">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="15dp"
+                android:textAlignment="center"
+                android:textStyle="bold|italic"
+                android:text="Naenda Kwetu"
+                android:textSize="25sp"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="15dp"
+                android:padding="8dp"
+                android:textStyle="bold|italic"
+                android:text="       (Nimewaacha leo wenzangu , naenda kwetu mbinguni) x2
+Naomba mtafakari kuhusu  maisha yenu muone kama kweli mkotayari na kama kuna kikwazo mimi naomba tubu ndugu maana hamjui siku wala saa.
+"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="15dp"
+                android:textStyle="normal"
+                android:text="1.Kifo cha mmoja kinapaswa kutukumbusha sisi sote tuwasafiri leo nimekufa na kesho ni zamu yako jiweke tayari tuwasafiri"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="8dp"
+                android:textStyle="normal"
+                android:text="2.Nawaomba nyote mnisamehe popote nilipokosea niende vema, mimi pia nimewasamehe wale wote walinikosea kuweni huru"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="8dp"
+                android:textStyle="normal"
+                android:text="3.Safari ya kwenda mbinguni inaitaji mwongozo wake mwana wa mungu, aliyetufia msalabani ili tukombolewe tumfwate."
+                />
+
+
+        </LinearLayout>
+    </ScrollView>
+
+
+</LinearLayout>

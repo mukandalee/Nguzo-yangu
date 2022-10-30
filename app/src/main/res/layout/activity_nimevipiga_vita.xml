@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:padding="8dp"
+    android:layout_height="match_parent"
+    tools:context=".NimevipigaVita">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="15dp"
+                android:textAlignment="center"
+                android:textStyle="bold|italic"
+                android:text="Nimevipiga vita"
+                android:textSize="25sp"/>
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="5dp"
+                android:textStyle="normal"
+                android:text="Sop/Tr:Nimevipiga vita\n
+All:nimevipiga vita vilivyo vizuri x2\n
+Alt:mwendo\n
+All:Mwendo nimeumaliza, imani nimeilinda mwendo nimeumaliza imani nimeilinda x2"
+                />
+
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="15dp"
+                android:textStyle="normal"
+                android:text="1.Baada ya hayo (nimewekewa taji )taya ya haki"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="15dp"
+                android:textStyle="normal"
+                android:text="2.Sasa na mimi nao wakati wangu, wakufariki kwangu, nao umefiki."  />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="15dp"
+                android:textStyle="normal"
+                android:text="3.Ataniokoa na kila neno baya, hata niufikie, ufalme wa mbingu."   />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="15dp"
+                android:textStyle="normal"
+                android:text="4.Naminitaishi, kwake baba milele, tena nikimwambia, mungu aleluya"   />
+
+
+
+
+
+        </LinearLayout>
+    </ScrollView>
+
+
+</LinearLayout>

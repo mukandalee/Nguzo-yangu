@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:padding="12dp"
+    android:layout_height="match_parent"
+    tools:context=".AsiliYetuNiMoja">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="15dp"
+                android:textAlignment="center"
+                android:textStyle="bold|italic"
+                android:text="Asili Yetu Ni Moja"
+                android:textSize="25sp"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="15dp"
+                android:textAlignment="center"
+                android:textStyle="bold|italic"
+                android:text=" Asili yetu nimoja tuliumbwa kwa udongo ni dhahiri na bayana tutarudi mavumbini (Kweli ninasadiki ya kwamba tutaishi milele daima,tukifika mbinguni kwa baba tutaimba kwa shangwe kubwa)x2"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="15dp"
+                android:textStyle="normal"
+                android:text="1.Bwana kama ungehesabu makosa yetu wanadamu (basi nani angesimama mbele yako wewe)x2"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="8dp"
+                android:textStyle="normal"
+                android:text="2.Ewe mungu mwenye rehema wanao tunakulilia (tusamehe makosa yote"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="8dp"
+                android:textStyle="normal"
+                android:text="3.Kwa sauti ya ujasiri tunataja bila aibu (malaika watatulaki mbinguni kwa baba)x2"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="8dp"
+                android:textStyle="normal"
+                android:text="4.Tutapokea mwili mpya tarumbeta itapolia (malaika watatulaki mbinguni kwa baba)x2"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="8dp"
+                android:textStyle="normal"
+                android:text="5.Basi ndugu tukaze mwendo safarini na tungalipo (tutafika tena upesi wala si kitambo)x2"
+                />
+        </LinearLayout>
+    </ScrollView>
+
+
+</LinearLayout>

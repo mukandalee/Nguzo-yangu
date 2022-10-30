@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/view.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_asili_yetu_ni_moja.xml" value="0.171875" />
+        <entry key="app/src/main/res/layout/activity_dunia_imekwisha.xml" value="0.171875" />
+        <entry key="app/src/main/res/layout/activity_duniani_sio_kwetu.xml" value="0.171875" />
+        <entry key="app/src/main/res/layout/activity_halleluya.xml" value="0.171875" />
+        <entry key="app/src/main/res/layout/activity_harusi_ya_mwisho.xml" value="0.171875" />
+        <entry key="app/src/main/res/layout/activity_ikatetemeka_inchi_yote.xml" value="0.171875" />
+        <entry key="app/src/main/res/layout/activity_kifo_chake_stephano.xml" value="0.171875" />
+        <entry key="app/src/main/res/layout/activity_kisha_nikaona.xml" value="0.171875" />
+        <entry key="app/src/main/res/layout/activity_kuteswa_kwake_bwana.xml" value="0.171875" />
+        <entry key="app/src/main/res/layout/activity_lala_mpenzi.xml" value="0.171875" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.16018518518518518" />
+        <entry key="app/src/main/res/layout/activity_mwokozi_pokea_moyo_wangu.xml" value="0.171875" />
+        <entry key="app/src/main/res/layout/activity_naenda_kwetu.xml" value="0.171875" />
+        <entry key="app/src/main/res/layout/activity_nakujia_ni_mwenye_dhambi.xml" value="0.171875" />
+        <entry key="app/src/main/res/layout/activity_narejea_kwako.xml" value="0.171875" />
+        <entry key="app/src/main/res/layout/activity_nenda_upumzike.xml" value="0.171875" />
+        <entry key="app/src/main/res/layout/activity_nimerudi_kwako.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_nimevipiga_vita.xml" value="0.171875" />
+        <entry key="app/src/main/res/layout/activity_ninakaza_mwendo.xml" value="0.171875" />
+        <entry key="app/src/main/res/layout/activity_roho_za_waamin.xml" value="0.171875" />
+        <entry key="app/src/main/res/layout/activity_splash_screen.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_tunatafakari.xml" value="0.171875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.mukanda.nguzoyangu">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.NguzoYangu"
+        tools:targetApi="31">
+        <activity
+            android:name=".NendaUpumzike"
+            android:exported="false" />
+        <activity
+            android:name=".KifoChakeStephano"
+            android:exported="false" />
+        <activity
+            android:name=".IkatetemekaInchiYote"
+            android:exported="false" />
+        <activity
+            android:name=".DuniaImekwisha"
+            android:exported="false" />
+        <activity
+            android:name=".NimevipigaVita"
+            android:exported="false" />
+        <activity
+            android:name=".LalaMpenzi"
+            android:exported="false" />
+        <activity
+            android:name=".NakujiaNiMwenyeDhambi"
+            android:exported="false" />
+        <activity
+            android:name=".RohoZaWaamin"
+            android:exported="false" />
+        <activity
+            android:name=".MwokoziPokeaMoyoWangu"
+            android:exported="false" />
+        <activity
+            android:name=".KishaNikaona"
+            android:exported="false" />
+        <activity
+            android:name=".KuteswaKwakeBwana"
+            android:exported="false" />
+        <activity
+            android:name=".DunianiSioKwetu"
+            android:exported="false" />
+        <activity
+            android:name=".NaendaKwetu"
+            android:exported="false" />
+        <activity
+            android:name=".NarejeaKwako"
+            android:exported="false" />
+        <activity
+            android:name=".Halleluya"
+            android:exported="false" />
+        <activity
+            android:name=".HarusiYaMwisho"
+            android:exported="false" />
+        <activity
+            android:name=".NimerudiKwako"
+            android:exported="false" />
+        <activity
+            android:name=".AsiliYetuNiMoja"
+            android:exported="false" />
+        <activity
+            android:name=".NinakazaMwendo"
+            android:exported="false" />
+        <activity
+            android:name=".Tunatafakari"
+            android:exported="false" />
+        <activity
+            android:name=".Home"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SplashScreen"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
